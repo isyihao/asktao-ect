@@ -1,0 +1,401 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+130级满属性装备1 : 100
+130级满属性装备2 : 100
+130级满属性装备3 : 100
+130级满属性装备4 : 100
+130级满属性装备5 : 100
+130级满属性装备6 : 100
+130级满属性装备7 : 100
+
+
+[130级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "赤眼神龙枪1", "赤眼神龙枪2", "赤眼神龙枪3", "赤眼神龙枪4", "赤眼神龙枪5", "赤眼神龙枪6", "赤眼神龙枪7", "赤眼神龙枪8", "赤眼神龙枪9", "赤眼神龙枪10", "赤眼神龙枪11", "赤眼神龙枪12", "赤眼神龙枪13", "赤眼神龙枪14"})
+
+[130级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "白玉星冠1", "白玉星冠2", "白玉星冠3", "白玉星冠4", "白玉星冠5", "白玉星冠6"})
+
+[130级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九彩玲珠冠1", "九彩玲珠冠2", "九彩玲珠冠3", "九彩玲珠冠4", "九彩玲珠冠5", "九彩玲珠冠6"})
+
+[130级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "天玄真神甲1", "天玄真神甲2", "天玄真神甲3", "天玄真神甲4", "天玄真神甲5", "天玄真神甲6", "天玄真神甲7", "天玄真神甲8", "天玄真神甲9"})
+
+[130级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "万霞霓罗裳1", "万霞霓罗裳2", "万霞霓罗裳3", "万霞霓罗裳4", "万霞霓罗裳5", "万霞霓罗裳6", "万霞霓罗裳7", "万霞霓罗裳8", "万霞霓罗裳9"})
+
+[130级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "雷弧闪1", "雷弧闪2", "雷弧闪3", "雷弧闪4", "雷弧闪5", "雷弧闪6", "雷弧闪7"})
+
+[130级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "三叉盘珠圈1", "三叉盘珠圈2", "三叉盘珠圈3", "三叉盘珠圈4", "三叉盘珠圈5", "三叉盘珠圈6", "三叉盘珠圈7"})
+
+
+
+[赤眼神龙枪1]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/phy_power", 3800,"color", 蓝色})
+
+[赤眼神龙枪2]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/dex", 32,"color", 蓝色})
+
+[赤眼神龙枪3]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[赤眼神龙枪4]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[赤眼神龙枪5]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[赤眼神龙枪6]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[赤眼神龙枪7]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[赤眼神龙枪8]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[赤眼神龙枪9]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[赤眼神龙枪10]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[赤眼神龙枪11]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[赤眼神龙枪12]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[赤眼神龙枪13]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[赤眼神龙枪14]
+name      : 赤眼神龙枪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[白玉星冠1]
+name      : 白玉星冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/def", 1000,"color", 蓝色})
+
+[白玉星冠2]
+name      : 白玉星冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/max_life", 3400,"color", 蓝色})
+
+[白玉星冠2]
+name      : 白玉星冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/str", 32,"color", 蓝色})
+
+[白玉星冠3]
+name      : 白玉星冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/con", 32,"color", 蓝色})
+
+[白玉星冠4]
+name      : 白玉星冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/wiz", 32,"color", 蓝色})
+
+[白玉星冠5]
+name      : 白玉星冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/dex", 32,"color", 蓝色})
+
+[白玉星冠6]
+name      : 白玉星冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_attrib", 26,"color", 蓝色})
+
+[九彩玲珠冠1]
+name      : 九彩玲珠冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/def", 1000,"color", 蓝色})
+
+[九彩玲珠冠2]
+name      : 九彩玲珠冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/max_life", 3400,"color", 蓝色})
+
+[九彩玲珠冠2]
+name      : 九彩玲珠冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/str", 32,"color", 蓝色})
+
+[九彩玲珠冠3]
+name      : 九彩玲珠冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/con", 32,"color", 蓝色})
+
+[九彩玲珠冠4]
+name      : 九彩玲珠冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/wiz", 32,"color", 蓝色})
+
+[九彩玲珠冠5]
+name      : 九彩玲珠冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/dex", 32,"color", 蓝色})
+
+[九彩玲珠冠5]
+name      : 九彩玲珠冠
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_attrib", 26,"color", 蓝色})
+
+[天玄真神甲1]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/def", 2000,"color", 蓝色})
+
+[天玄真神甲2]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/max_life", 6000,"color", 蓝色})
+
+[天玄真神甲3]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/str", 32,"color", 蓝色})
+
+[天玄真神甲4]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/con", 32,"color", 蓝色})
+
+[天玄真神甲5]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/wiz", 32,"color", 蓝色})
+
+[天玄真神甲6]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/dex", 32,"color", 蓝色})
+
+[天玄真神甲7]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_attrib", 26,"color", 蓝色})
+
+[天玄真神甲8]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[天玄真神甲9]
+name      : 天玄真神甲
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[万霞霓罗裳1]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/def", 2000,"color", 蓝色})
+
+[万霞霓罗裳2]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/max_life", 6000,"color", 蓝色})
+
+[万霞霓罗裳3]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/str", 32,"color", 蓝色})
+
+[万霞霓罗裳4]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/con", 32,"color", 蓝色})
+
+[万霞霓罗裳5]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/wiz", 32,"color", 蓝色})
+
+[万霞霓罗裳6]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/dex", 32,"color", 蓝色})
+
+[万霞霓罗裳7]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_attrib", 26,"color", 蓝色})
+
+[万霞霓罗裳8]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[万霞霓罗裳9]
+name      : 万霞霓罗裳
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[雷弧闪1]
+name      : 雷弧闪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/def", 1000,"color", 蓝色})
+
+[雷弧闪2]
+name      : 雷弧闪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/speed", 170,"color", 蓝色})
+
+[雷弧闪3]
+name      : 雷弧闪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/str", 32,"color", 蓝色})
+
+[雷弧闪4]
+name      : 雷弧闪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/con", 32,"color", 蓝色})
+
+[雷弧闪5]
+name      : 雷弧闪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/wiz", 32,"color", 蓝色})
+
+[雷弧闪6]
+name      : 雷弧闪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/dex", 32,"color", 蓝色})
+
+[雷弧闪7]
+name      : 雷弧闪
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_attrib", 26,"color", 蓝色})
+
+[三叉盘珠圈1]
+name      : 三叉盘珠圈
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/def", 1000,"color", 蓝色})
+
+[三叉盘珠圈2]
+name      : 三叉盘珠圈
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[三叉盘珠圈3]
+name      : 三叉盘珠圈
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/str", 32,"color", 蓝色})
+
+[三叉盘珠圈4]
+name      : 三叉盘珠圈
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/con", 32,"color", 蓝色})
+
+[三叉盘珠圈5]
+name      : 三叉盘珠圈
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/wiz", 32,"color", 蓝色})
+
+[三叉盘珠圈6]
+name      : 三叉盘珠圈
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/dex", 32,"color", 蓝色})
+
+[三叉盘珠圈7]
+name      : 三叉盘珠圈
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/all_attrib", 26,"color", 蓝色})

@@ -1,0 +1,93 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+法宝 : 1000
+
+[法宝]
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "混元金斗"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "混沌钟"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "番天印"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "九龙神火罩"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "阴阳镜"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "金蛟剪"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "定海珠"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "卸甲金葫"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "七宝妙树"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "十二品莲台"})
+
+[定海珠]
+name:定海珠
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1435, "nimbus", 0 })
+
+[番天印]
+name:番天印
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1441, "nimbus", 0 })
+
+[混元金斗]
+name:混元金斗
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1436, "nimbus", 0 })
+
+[阴阳镜]
+name:阴阳镜
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1438, "nimbus", 0 })
+
+[九龙神火罩]
+name:九龙神火罩
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1440, "nimbus", 0 })
+
+[金蛟剪]
+name:金蛟剪
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1437, "nimbus", 0 })
+
+[卸甲金葫]
+name:卸甲金葫
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1439, "nimbus", 0 })
+
+[七宝妙树]
+name:七宝妙树
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1449, "nimbus", 0 })
+
+[混沌钟]
+name:混沌钟
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1448, "nimbus", 0 })
+
+[十二品莲台]
+name:十二品莲台
+min_level : 14
+max_level : 14
+polar:0
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1447, "nimbus", 0 })

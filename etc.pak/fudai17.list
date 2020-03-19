@@ -1,0 +1,402 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+150级满属性装备1 : 100
+150级满属性装备2 : 100
+150级满属性装备3 : 100
+150级满属性装备4 : 100
+150级满属性装备5 : 100
+150级满属性装备6 : 100
+150级满属性装备7 : 100
+
+
+
+[150级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凤舞梦魇刀1", "凤舞梦魇刀2", "凤舞梦魇刀3", "凤舞梦魇刀4", "凤舞梦魇刀5", "凤舞梦魇刀6", "凤舞梦魇刀7", "凤舞梦魇刀8", "凤舞梦魇刀9", "凤舞梦魇刀10", "凤舞梦魇刀11", "凤舞梦魇刀12", "凤舞梦魇刀13", "凤舞梦魇刀14"})
+
+[150级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金翼龙冠1", "金翼龙冠2", "金翼龙冠3", "金翼龙冠4", "金翼龙冠5", "金翼龙冠6"})
+
+[150级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "菁麟宝冠1", "菁麟宝冠2", "菁麟宝冠3", "菁麟宝冠4", "菁麟宝冠5", "菁麟宝冠6"})
+
+[150级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "紫金神风甲1", "紫金神风甲2", "紫金神风甲3", "紫金神风甲4", "紫金神风甲5", "紫金神风甲6", "紫金神风甲7", "紫金神风甲8", "紫金神风甲9"})
+
+[150级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凤翼轻裘1", "凤翼轻裘2", "凤翼轻裘3", "凤翼轻裘4", "凤翼轻裘5", "凤翼轻裘6", "凤翼轻裘7", "凤翼轻裘8", "凤翼轻裘9"})
+
+[150级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "煞影履1", "煞影履2", "煞影履3", "煞影履4", "煞影履5", "煞影履6", "煞影履7"})
+
+[150级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九吞八乍带1", "九吞八乍带2", "九吞八乍带3", "九吞八乍带4", "九吞八乍带5", "九吞八乍带6", "九吞八乍带7"})
+
+
+
+[凤舞梦魇刀1]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/phy_power", 4800,"color", 蓝色})
+
+[凤舞梦魇刀2]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/dex", 36,"color", 蓝色})
+
+[凤舞梦魇刀3]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[凤舞梦魇刀4]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[凤舞梦魇刀5]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[凤舞梦魇刀6]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[凤舞梦魇刀7]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[凤舞梦魇刀8]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[凤舞梦魇刀9]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[凤舞梦魇刀10]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[凤舞梦魇刀11]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[凤舞梦魇刀12]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[凤舞梦魇刀13]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[凤舞梦魇刀14]
+name      : 凤舞梦魇刀
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[金翼龙冠1]
+name      : 金翼龙冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/def", 1600,"color", 蓝色})
+
+[金翼龙冠2]
+name      : 金翼龙冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/max_life", 5000,"color", 蓝色})
+
+[金翼龙冠2]
+name      : 金翼龙冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/str", 36,"color", 蓝色})
+
+[金翼龙冠3]
+name      : 金翼龙冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/con", 36,"color", 蓝色})
+
+[金翼龙冠4]
+name      : 金翼龙冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/wiz", 36,"color", 蓝色})
+
+[金翼龙冠5]
+name      : 金翼龙冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/dex", 36,"color", 蓝色})
+
+[金翼龙冠6]
+name      : 金翼龙冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[菁麟宝冠1]
+name      : 菁麟宝冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/def", 1600,"color", 蓝色})
+
+[菁麟宝冠2]
+name      : 菁麟宝冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/max_life", 5000,"color", 蓝色})
+
+[菁麟宝冠2]
+name      : 菁麟宝冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/str", 36,"color", 蓝色})
+
+[菁麟宝冠3]
+name      : 菁麟宝冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/con", 36,"color", 蓝色})
+
+[菁麟宝冠4]
+name      : 菁麟宝冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/wiz", 36,"color", 蓝色})
+
+[菁麟宝冠5]
+name      : 菁麟宝冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/dex", 36,"color", 蓝色})
+
+[菁麟宝冠5]
+name      : 菁麟宝冠
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[紫金神风甲1]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/def", 3200,"color", 蓝色})
+
+[紫金神风甲2]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/max_life", 9000,"color", 蓝色})
+
+[紫金神风甲3]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/str", 36,"color", 蓝色})
+
+[紫金神风甲4]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/con", 36,"color", 蓝色})
+
+[紫金神风甲5]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/wiz", 36,"color", 蓝色})
+
+[紫金神风甲6]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/dex", 36,"color", 蓝色})
+
+[紫金神风甲7]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[紫金神风甲8]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[紫金神风甲9]
+name      : 紫金神风甲
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[凤翼轻裘1]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/def", 3200,"color", 蓝色})
+
+[凤翼轻裘2]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/max_life", 9000,"color", 蓝色})
+
+[凤翼轻裘3]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/str", 36,"color", 蓝色})
+
+[凤翼轻裘4]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/con", 36,"color", 蓝色})
+
+[凤翼轻裘5]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/wiz", 36,"color", 蓝色})
+
+[凤翼轻裘6]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/dex", 36,"color", 蓝色})
+
+[凤翼轻裘7]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[凤翼轻裘8]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[凤翼轻裘9]
+name      : 凤翼轻裘
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[煞影履1]
+name      : 煞影履
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/def", 1600,"color", 蓝色})
+
+[煞影履2]
+name      : 煞影履
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/speed", 190,"color", 蓝色})
+
+[煞影履3]
+name      : 煞影履
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/str", 36,"color", 蓝色})
+
+[煞影履4]
+name      : 煞影履
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/con", 36,"color", 蓝色})
+
+[煞影履5]
+name      : 煞影履
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/wiz", 36,"color", 蓝色})
+
+[煞影履6]
+name      : 煞影履
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/dex", 36,"color", 蓝色})
+
+[煞影履7]
+name      : 煞影履
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[九吞八乍带1]
+name      : 九吞八乍带
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/def", 1600,"color", 蓝色})
+
+[九吞八乍带2]
+name      : 九吞八乍带
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[九吞八乍带3]
+name      : 九吞八乍带
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/str", 36,"color", 蓝色})
+
+[九吞八乍带4]
+name      : 九吞八乍带
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/con", 36,"color", 蓝色})
+
+[九吞八乍带5]
+name      : 九吞八乍带
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/wiz", 36,"color", 蓝色})
+
+[九吞八乍带6]
+name      : 九吞八乍带
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/dex", 36,"color", 蓝色})
+
+[九吞八乍带7]
+name      : 九吞八乍带
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})

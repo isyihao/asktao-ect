@@ -1,0 +1,848 @@
+#FORM2
+
+[time_info]
+start_time      : "2013-04-15-00:00"
+end_time        : "2022-05-03-23:59"
+test_start_time : "2013-03-04-00:00"
+test_end_time   : "2022-03-10-23:59"
+
+[broadcast_setting]
+broadcast_list : ({ "dur_task" })
+
+[dur_task]
+broadcast_start : "start_time(64800)"
+interval        : 1200
+cycle           : 86400
+broadcast_end   : "start_time(79100)"
+final_end_time  : "end_time"
+message         : "传说中的#R九曲玲珑笔#n在周年商城上架了，大家赶紧去#P活动大使#P处兑换吧！出售时间为#R18:00-22:00#n，欲购从速。"
+channel         : "CHANNEL_SYSTEM | CHANNEL_NO_BROADCAST"
+
+[001]
+name: "潜金散"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[002]
+name: "神木丸"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[003]
+name: "柔水丹"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[004]
+name: "烈火散"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[005]
+name: "三土丸"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[006]
+name: "超级昆仑卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[007]
+name: "超级苍穹卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[008]
+name: "超级巨力卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[009]
+name: "超级逐鹿卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[010]
+name: "超级疆良卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[011]
+name: "超级斗战胜佛卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[012]
+name: "超级朱雀卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[013]
+name: "改头换面卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[014]
+name: "道具套餐卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[015]
+name: "高级道具套餐卡"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[016]
+name: "绝技·回生"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[017]
+name: "绝技·中流砥柱"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[018]
+name: "绝技·销声匿迹"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[019]
+name: "绝技·裂地"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[020]
+name: "绝技·道法归宗"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[021]
+name: "变身绝技·天道合一"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[022]
+name: "变身绝技·急速舍身"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[023]
+name: "变身绝技·合力破敌"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[024]
+name: "变身绝技·以己渡人"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[025]
+name: "绮罗黄精香"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[026]
+name: "秘笈·灵敏"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[027]
+name: "秘笈·体魄"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[028]
+name: "秘笈·智慧"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[029]
+name: "秘笈·怒气获得增加"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[030]
+name: "秘笈·力气"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[031]
+name: "秘笈·怒气要求减少"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[032]
+name: "秘笈·法术必杀"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[033]
+name: "秘笈·物理必杀"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[034]
+name: "秘笈·忽视金抗性"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[035]
+name: "秘笈·忽视木抗性"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[036]
+name: "秘笈·忽视水抗性"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[037]
+name: "秘笈·忽视火抗性"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[038]
+name: "秘笈·忽视土抗性"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[039]
+name: "翻转乾坤秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[040]
+name: "神圣之光秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[041]
+name: "死亡缠绵秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[042]
+name: "游说之舌秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[043]
+name: "满天雪舞秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[044]
+name: "舍命一击秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[045]
+name: "十万火急秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[046]
+name: "天生神力秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[047]
+name: "鞭长莫及秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[048]
+name: "拔苗助长秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[049]
+name: "防微杜渐秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[050]
+name: "乾坤罩秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[051]
+name: "神龙罩秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[052]
+name: "如意圈秘笈"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[053]
+name: "幻宠礼包"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[054]
+name: "特级藏宝图"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[055]
+name: "六级镶嵌令"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[056]
+name: "七级镶嵌令"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[057]
+name: "八级镶嵌令"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[058]
+name: "九级镶嵌令"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[059]
+name: "十级镶嵌令"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[060]
+name: "Q版新金服·男"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[061]
+name: "Q版新木服·男"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[062]
+name: "Q版新水服·男"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[063]
+name: "Q版新火服·男"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[064]
+name: "Q版新土服·男"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[065]
+name: "Q版新金服·女"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[066]
+name: "Q版新木服·女"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[067]
+name: "Q版新水服·女"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[068]
+name: "Q版新火服·女"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+
+[069]
+name: "Q版新土服·女"
+card_num: 0
+give_num: 1
+free_bag: 1
+free_pet: 1
+type: "item"
+show_start: 0
+show_end: 24
+sell_start: 0
+sell_end: 24
+

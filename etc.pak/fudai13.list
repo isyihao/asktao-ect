@@ -1,0 +1,403 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+110级满属性装备1 : 100
+110级满属性装备2 : 100
+110级满属性装备3 : 100
+110级满属性装备4 : 100
+110级满属性装备5 : 100
+110级满属性装备6 : 100
+110级满属性装备7 : 100
+
+
+
+
+[110级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九转金刚刃1", "九转金刚刃2", "九转金刚刃3", "九转金刚刃4", "九转金刚刃5", "九转金刚刃6", "九转金刚刃7", "九转金刚刃8", "九转金刚刃9", "九转金刚刃10", "九转金刚刃11", "九转金刚刃12", "九转金刚刃13", "九转金刚刃14"})
+
+[110级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "星耀冠1", "星耀冠2", "星耀冠3", "星耀冠4", "星耀冠5", "星耀冠6"})
+
+[110级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凌波霞冠1", "凌波霞冠2", "凌波霞冠3", "凌波霞冠4", "凌波霞冠5", "凌波霞冠6"})
+
+[110级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "星晶法衣1", "星晶法衣2", "星晶法衣3", "星晶法衣4", "星晶法衣5", "星晶法衣6", "星晶法衣7", "星晶法衣8", "星晶法衣9"})
+
+[110级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "瀚宇法袍1", "瀚宇法袍2", "瀚宇法袍3", "瀚宇法袍4", "瀚宇法袍5", "瀚宇法袍6", "瀚宇法袍7", "瀚宇法袍8", "瀚宇法袍9"})
+
+[110级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "御风履1", "御风履2", "御风履3", "御风履4", "御风履5", "御风履6", "御风履7"})
+
+[110级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "鱼皮宝甲圈1", "鱼皮宝甲圈2", "鱼皮宝甲圈3", "鱼皮宝甲圈4", "鱼皮宝甲圈5", "鱼皮宝甲圈6", "鱼皮宝甲圈7"})
+
+
+
+[九转金刚刃1]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/phy_power", 2800,"color", 蓝色})
+
+[九转金刚刃2]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/dex", 27,"color", 蓝色})
+
+[九转金刚刃3]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[九转金刚刃4]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[九转金刚刃5]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[九转金刚刃6]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[九转金刚刃7]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[九转金刚刃8]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[九转金刚刃9]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[九转金刚刃10]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[九转金刚刃11]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[九转金刚刃12]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[九转金刚刃13]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[九转金刚刃14]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[星耀冠1]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/def", 400,"color", 蓝色})
+
+[星耀冠2]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/max_life", 1300,"color", 蓝色})
+
+[星耀冠2]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/str", 27,"color", 蓝色})
+
+[星耀冠3]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/con", 27,"color", 蓝色})
+
+[星耀冠4]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/wiz", 27,"color", 蓝色})
+
+[星耀冠5]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/dex", 27,"color", 蓝色})
+
+[星耀冠6]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22,"color", 蓝色})
+
+[凌波霞冠1]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/def", 400,"color", 蓝色})
+
+[凌波霞冠2]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/max_life", 1300,"color", 蓝色})
+
+[凌波霞冠2]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/str", 27,"color", 蓝色})
+
+[凌波霞冠3]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/con", 27,"color", 蓝色})
+
+[凌波霞冠4]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/wiz", 27,"color", 蓝色})
+
+[凌波霞冠5]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/dex", 27,"color", 蓝色})
+
+[凌波霞冠5]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22,"color", 蓝色})
+
+[星晶法衣1]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/def", 800,"color", 蓝色})
+
+[星晶法衣2]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/max_life", 2200,"color", 蓝色})
+
+[星晶法衣3]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/str", 27,"color", 蓝色})
+
+[星晶法衣4]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/con", 27,"color", 蓝色})
+
+[星晶法衣5]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/wiz", 27,"color", 蓝色})
+
+[星晶法衣6]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/dex", 27,"color", 蓝色})
+
+[星晶法衣7]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22,"color", 蓝色})
+
+[星晶法衣8]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[星晶法衣9]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[瀚宇法袍1]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/def", 800,"color", 蓝色})
+
+[瀚宇法袍2]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/max_life", 2200,"color", 蓝色})
+
+[瀚宇法袍3]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/str", 27,"color", 蓝色})
+
+[瀚宇法袍4]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/con", 27,"color", 蓝色})
+
+[瀚宇法袍5]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/wiz", 27,"color", 蓝色})
+
+[瀚宇法袍6]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/dex", 27,"color", 蓝色})
+
+[瀚宇法袍7]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22,"color", 蓝色})
+
+[瀚宇法袍8]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[瀚宇法袍9]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[御风履1]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/def", 400,"color", 蓝色})
+
+[御风履2]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/speed", 140,"color", 蓝色})
+
+[御风履3]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/str", 27,"color", 蓝色})
+
+[御风履4]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/con", 27,"color", 蓝色})
+
+[御风履5]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/wiz", 27,"color", 蓝色})
+
+[御风履6]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/dex", 27,"color", 蓝色})
+
+[御风履7]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22,"color", 蓝色})
+
+[鱼皮宝甲圈1]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/def", 400,"color", 蓝色})
+
+[鱼皮宝甲圈2]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[鱼皮宝甲圈3]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/str", 27,"color", 蓝色})
+
+[鱼皮宝甲圈4]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/con", 27,"color", 蓝色})
+
+[鱼皮宝甲圈5]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/wiz", 27,"color", 蓝色})
+
+[鱼皮宝甲圈6]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/dex", 27,"color", 蓝色})
+
+[鱼皮宝甲圈7]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22,"color", 蓝色})

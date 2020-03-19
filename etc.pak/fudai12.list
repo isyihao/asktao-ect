@@ -1,0 +1,402 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+100级满属性装备1 : 100
+100级满属性装备2 : 100
+100级满属性装备3 : 100
+100级满属性装备4 : 100
+100级满属性装备5 : 100
+100级满属性装备6 : 100
+100级满属性装备7 : 100
+
+
+
+[100级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "风火游龙枪1", "风火游龙枪2", "风火游龙枪3", "风火游龙枪4", "风火游龙枪5", "风火游龙枪6", "风火游龙枪7", "风火游龙枪8", "风火游龙枪9", "风火游龙枪10", "风火游龙枪11", "风火游龙枪12", "风火游龙枪13", "风火游龙枪14"})
+
+[100级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九霄烈焰冠1", "九霄烈焰冠2", "九霄烈焰冠3", "九霄烈焰冠4", "九霄烈焰冠5", "九霄烈焰冠6"})
+
+[100级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九霄烈焰冠1", "九霄烈焰冠2", "九霄烈焰冠3", "九霄烈焰冠4", "九霄烈焰冠5", "九霄烈焰冠6"})
+
+[100级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "天衣1", "天衣2", "天衣3", "天衣4", "天衣5", "天衣6", "天衣7", "天衣8", "天衣9"})
+
+[100级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "霓裳羽衣1", "霓裳羽衣2", "霓裳羽衣3", "霓裳羽衣4", "霓裳羽衣5", "霓裳羽衣6", "霓裳羽衣7", "霓裳羽衣8", "霓裳羽衣9"})
+
+[100级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "踏云靴1", "踏云靴2", "踏云靴3", "踏云靴4", "踏云靴5", "踏云靴6", "踏云靴7"})
+
+[100级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "八宝叶圈1", "八宝叶圈2", "八宝叶圈3", "八宝叶圈4", "八宝叶圈5", "八宝叶圈6", "八宝叶圈7"})
+
+
+
+[风火游龙枪1]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/phy_power", 2400,"color", 蓝色})
+
+[风火游龙枪2]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/dex", 25,"color", 蓝色})
+
+[风火游龙枪3]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[风火游龙枪4]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[风火游龙枪5]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[风火游龙枪6]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[风火游龙枪7]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[风火游龙枪8]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[风火游龙枪9]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[风火游龙枪10]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[风火游龙枪11]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[风火游龙枪12]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[风火游龙枪13]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[风火游龙枪14]
+name      : 风火游龙枪
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[九霄烈焰冠1]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/def", 340,"color", 蓝色})
+
+[九霄烈焰冠2]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/max_life", 1100,"color", 蓝色})
+
+[九霄烈焰冠2]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/str", 25,"color", 蓝色})
+
+[九霄烈焰冠3]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/con", 25,"color", 蓝色})
+
+[九霄烈焰冠4]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/wiz", 25,"color", 蓝色})
+
+[九霄烈焰冠5]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/dex", 25,"color", 蓝色})
+
+[九霄烈焰冠6]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_attrib", 20,"color", 蓝色})
+
+[九霄烈焰冠1]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/def", 340,"color", 蓝色})
+
+[九霄烈焰冠2]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/max_life", 1100,"color", 蓝色})
+
+[九霄烈焰冠2]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/str", 25,"color", 蓝色})
+
+[九霄烈焰冠3]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/con", 25,"color", 蓝色})
+
+[九霄烈焰冠4]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/wiz", 25,"color", 蓝色})
+
+[九霄烈焰冠5]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/dex", 25,"color", 蓝色})
+
+[九霄烈焰冠5]
+name      : 九霄烈焰冠
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_attrib", 20,"color", 蓝色})
+
+[天衣1]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/def", 650,"color", 蓝色})
+
+[天衣2]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/max_life", 1900,"color", 蓝色})
+
+[天衣3]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/str", 25,"color", 蓝色})
+
+[天衣4]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/con", 25,"color", 蓝色})
+
+[天衣5]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/wiz", 25,"color", 蓝色})
+
+[天衣6]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/dex", 25,"color", 蓝色})
+
+[天衣7]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_attrib", 20,"color", 蓝色})
+
+[天衣8]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[天衣9]
+name      : 天衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[霓裳羽衣1]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/def", 650,"color", 蓝色})
+
+[霓裳羽衣2]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/max_life", 1900,"color", 蓝色})
+
+[霓裳羽衣3]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/str", 25,"color", 蓝色})
+
+[霓裳羽衣4]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/con", 25,"color", 蓝色})
+
+[霓裳羽衣5]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/wiz", 25,"color", 蓝色})
+
+[霓裳羽衣6]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/dex", 25,"color", 蓝色})
+
+[霓裳羽衣7]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_attrib", 20,"color", 蓝色})
+
+[霓裳羽衣8]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[霓裳羽衣9]
+name      : 霓裳羽衣
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[踏云靴1]
+name      : 踏云靴
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/def", 340,"color", 蓝色})
+
+[踏云靴2]
+name      : 踏云靴
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/speed", 130,"color", 蓝色})
+
+[踏云靴3]
+name      : 踏云靴
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/str", 25,"color", 蓝色})
+
+[踏云靴4]
+name      : 踏云靴
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/con", 25,"color", 蓝色})
+
+[踏云靴5]
+name      : 踏云靴
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/wiz", 25,"color", 蓝色})
+
+[踏云靴6]
+name      : 踏云靴
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/dex", 25,"color", 蓝色})
+
+[踏云靴7]
+name      : 踏云靴
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_attrib", 20,"color", 蓝色})
+
+[八宝叶圈1]
+name      : 八宝叶圈
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/def", 340,"color", 蓝色})
+
+[八宝叶圈2]
+name      : 八宝叶圈
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[八宝叶圈3]
+name      : 八宝叶圈
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/str", 25,"color", 蓝色})
+
+[八宝叶圈4]
+name      : 八宝叶圈
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/con", 25,"color", 蓝色})
+
+[八宝叶圈5]
+name      : 八宝叶圈
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/wiz", 25,"color", 蓝色})
+
+[八宝叶圈6]
+name      : 八宝叶圈
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/dex", 25,"color", 蓝色})
+
+[八宝叶圈7]
+name      : 八宝叶圈
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/all_attrib", 20,"color", 蓝色})

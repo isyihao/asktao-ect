@@ -1,0 +1,402 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+90级满属性装备1 : 100
+90级满属性装备2 : 100
+90级满属性装备3 : 100
+90级满属性装备4 : 100
+90级满属性装备5 : 100
+90级满属性装备6 : 100
+90级满属性装备7 : 100
+
+
+
+[90级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蕴雷枪1", "蕴雷枪2", "蕴雷枪3", "蕴雷枪4", "蕴雷枪5", "蕴雷枪6", "蕴雷枪7", "蕴雷枪8", "蕴雷枪9", "蕴雷枪10", "蕴雷枪11", "蕴雷枪12", "蕴雷枪13", "蕴雷枪14"})
+
+[90级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蟠龙冠1", "蟠龙冠2", "蟠龙冠3", "蟠龙冠4", "蟠龙冠5", "蟠龙冠6"})
+
+[90级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金霞冠1", "金霞冠2", "金霞冠3", "金霞冠4", "金霞冠5", "金霞冠6"})
+
+[90级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金缕衣1", "金缕衣2", "金缕衣3", "金缕衣4", "金缕衣5", "金缕衣6", "金缕衣7", "金缕衣8", "金缕衣9"})
+
+[90级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "天蚕衣1", "天蚕衣2", "天蚕衣3", "天蚕衣4", "天蚕衣5", "天蚕衣6", "天蚕衣7", "天蚕衣8", "天蚕衣9"})
+
+[90级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "天行履1", "天行履2", "天行履3", "天行履4", "天行履5", "天行履6", "天行履7"})
+
+[90级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凤舞圈1", "凤舞圈2", "凤舞圈3", "凤舞圈4", "凤舞圈5", "凤舞圈6", "凤舞圈7"})
+
+
+
+[蕴雷枪1]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/phy_power", 2000,"color", 蓝色})
+
+[蕴雷枪2]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/dex", 20,"color", 蓝色})
+
+[蕴雷枪3]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[蕴雷枪4]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[蕴雷枪5]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[蕴雷枪6]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[蕴雷枪7]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[蕴雷枪8]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[蕴雷枪9]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[蕴雷枪10]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[蕴雷枪11]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[蕴雷枪12]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[蕴雷枪13]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[蕴雷枪14]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[蟠龙冠1]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/def", 280,"color", 蓝色})
+
+[蟠龙冠2]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/max_life", 950,"color", 蓝色})
+
+[蟠龙冠2]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/str", 22,"color", 蓝色})
+
+[蟠龙冠3]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/con", 22,"color", 蓝色})
+
+[蟠龙冠4]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/wiz", 22,"color", 蓝色})
+
+[蟠龙冠5]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/dex", 22,"color", 蓝色})
+
+[蟠龙冠6]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_attrib", 18,"color", 蓝色})
+
+[金霞冠1]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/def", 280,"color", 蓝色})
+
+[金霞冠2]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/max_life", 950,"color", 蓝色})
+
+[金霞冠2]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/str", 22,"color", 蓝色})
+
+[金霞冠3]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/con", 22,"color", 蓝色})
+
+[金霞冠4]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/wiz", 22,"color", 蓝色})
+
+[金霞冠5]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/dex", 22,"color", 蓝色})
+
+[金霞冠5]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_attrib", 18,"color", 蓝色})
+
+[金缕衣1]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/def", 550,"color", 蓝色})
+
+[金缕衣2]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/max_life", 1600,"color", 蓝色})
+
+[金缕衣3]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/str", 22,"color", 蓝色})
+
+[金缕衣4]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/con", 22,"color", 蓝色})
+
+[金缕衣5]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/wiz", 22,"color", 蓝色})
+
+[金缕衣6]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/dex", 22,"color", 蓝色})
+
+[金缕衣7]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_attrib", 18,"color", 蓝色})
+
+[金缕衣8]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[金缕衣9]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[天蚕衣1]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/def", 550,"color", 蓝色})
+
+[天蚕衣2]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/max_life", 1600,"color", 蓝色})
+
+[天蚕衣3]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/str", 22,"color", 蓝色})
+
+[天蚕衣4]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/con", 22,"color", 蓝色})
+
+[天蚕衣5]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/wiz", 22,"color", 蓝色})
+
+[天蚕衣6]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/dex", 22,"color", 蓝色})
+
+[天蚕衣7]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_attrib", 18,"color", 蓝色})
+
+[天蚕衣8]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[天蚕衣9]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[天行履1]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/def", 280,"color", 蓝色})
+
+[天行履2]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/speed", 120,"color", 蓝色})
+
+[天行履3]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/str", 22,"color", 蓝色})
+
+[天行履4]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/con", 22,"color", 蓝色})
+
+[天行履5]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/wiz", 22,"color", 蓝色})
+
+[天行履6]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/dex", 22,"color", 蓝色})
+
+[天行履7]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_attrib", 18,"color", 蓝色})
+
+[凤舞圈1]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/def", 280,"color", 蓝色})
+
+[凤舞圈2]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[凤舞圈3]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/str", 22,"color", 蓝色})
+
+[凤舞圈4]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/con", 22,"color", 蓝色})
+
+[凤舞圈5]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/wiz", 22,"color", 蓝色})
+
+[凤舞圈6]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/dex", 22,"color", 蓝色})
+
+[凤舞圈7]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_attrib", 18,"color", 蓝色})

@@ -1,0 +1,400 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+[特等奖]
+160级满属性装备1 : 100
+160级满属性装备2 : 100
+160级满属性装备3 : 100
+160级满属性装备4 : 100
+160级满属性装备5 : 100
+160级满属性装备6 : 100
+160级满属性装备7 : 100
+
+
+[160级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "天赐鸿福枪1", "天赐鸿福枪2", "天赐鸿福枪3", "天赐鸿福枪4", "天赐鸿福枪5", "天赐鸿福枪6", "天赐鸿福枪7", "天赐鸿福枪8", "天赐鸿福枪9", "天赐鸿福枪10", "天赐鸿福枪11", "天赐鸿福枪12", "天赐鸿福枪13", "天赐鸿福枪14"})
+
+[160级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "太清玄冠1", "太清玄冠2", "太清玄冠3", "太清玄冠4", "太清玄冠5", "太清玄冠6"})
+
+[160级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玉清仙冠1", "玉清仙冠2", "玉清仙冠3", "玉清仙冠4", "玉清仙冠5", "玉清仙冠6"})
+
+[160级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "五方银龙铠1", "五方银龙铠2", "五方银龙铠3", "五方银龙铠4", "五方银龙铠5", "五方银龙铠6", "五方银龙铠7", "五方银龙铠8", "五方银龙铠9"})
+
+[160级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "烟罗紫轻绡1", "烟罗紫轻绡2", "烟罗紫轻绡3", "烟罗紫轻绡4", "烟罗紫轻绡5", "烟罗紫轻绡6", "烟罗紫轻绡7", "烟罗紫轻绡8", "烟罗紫轻绡9"})
+
+[160级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "奔逸绝尘靴1", "奔逸绝尘靴2", "奔逸绝尘靴3", "奔逸绝尘靴4", "奔逸绝尘靴5", "奔逸绝尘靴6", "奔逸绝尘靴7"})
+
+[160级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九天幻影1", "九天幻影2", "九天幻影3", "九天幻影4", "九天幻影5", "九天幻影6", "九天幻影7"})
+
+
+
+[天赐鸿福枪1]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/phy_power", 5400,"color", 蓝色})
+
+[天赐鸿福枪2]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/dex", 38,"color", 蓝色})
+
+[天赐鸿福枪3]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[天赐鸿福枪4]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[天赐鸿福枪5]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[天赐鸿福枪6]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[天赐鸿福枪7]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[天赐鸿福枪8]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[天赐鸿福枪9]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[天赐鸿福枪10]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[天赐鸿福枪11]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[天赐鸿福枪12]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[天赐鸿福枪13]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[天赐鸿福枪14]
+name      : 天赐鸿福枪
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[太清玄冠1]
+name      : 太清玄冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/def", 1800,"color", 蓝色})
+
+[太清玄冠2]
+name      : 太清玄冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/max_life", 8000,"color", 蓝色})
+
+[太清玄冠2]
+name      : 太清玄冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/str", 38,"color", 蓝色})
+
+[太清玄冠3]
+name      : 太清玄冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/con", 38,"color", 蓝色})
+
+[太清玄冠4]
+name      : 太清玄冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/wiz", 38,"color", 蓝色})
+
+[太清玄冠5]
+name      : 太清玄冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/dex", 38,"color", 蓝色})
+
+[太清玄冠6]
+name      : 太清玄冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_attrib", 31,"color", 蓝色})
+
+[玉清仙冠1]
+name      : 玉清仙冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/def", 1800,"color", 蓝色})
+
+[玉清仙冠2]
+name      : 玉清仙冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/max_life", 8000,"color", 蓝色})
+
+[玉清仙冠2]
+name      : 玉清仙冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/str", 38,"color", 蓝色})
+
+[玉清仙冠3]
+name      : 玉清仙冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/con", 38,"color", 蓝色})
+
+[玉清仙冠4]
+name      : 玉清仙冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/wiz", 38,"color", 蓝色})
+
+[玉清仙冠5]
+name      : 玉清仙冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/dex", 38,"color", 蓝色})
+
+[玉清仙冠5]
+name      : 玉清仙冠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_attrib", 31,"color", 蓝色})
+
+[五方银龙铠1]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/def", 3600,"color", 蓝色})
+
+[五方银龙铠2]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/max_life", 16000,"color", 蓝色})
+
+[五方银龙铠3]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/str", 38,"color", 蓝色})
+
+[五方银龙铠4]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/con", 38,"color", 蓝色})
+
+[五方银龙铠5]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/wiz", 38,"color", 蓝色})
+
+[五方银龙铠6]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/dex", 38,"color", 蓝色})
+
+[五方银龙铠7]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_attrib", 31,"color", 蓝色})
+
+[五方银龙铠8]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[五方银龙铠9]
+name      : 五方银龙铠
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[烟罗紫轻绡1]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/def", 3600,"color", 蓝色})
+
+[烟罗紫轻绡2]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/max_life", 16000,"color", 蓝色})
+
+[烟罗紫轻绡3]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/str", 38,"color", 蓝色})
+
+[烟罗紫轻绡4]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/con", 38,"color", 蓝色})
+
+[烟罗紫轻绡5]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/wiz", 38,"color", 蓝色})
+
+[烟罗紫轻绡6]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/dex", 38,"color", 蓝色})
+
+[烟罗紫轻绡7]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_attrib", 31,"color", 蓝色})
+
+[烟罗紫轻绡8]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[烟罗紫轻绡9]
+name      : 烟罗紫轻绡
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[奔逸绝尘靴1]
+name      : 奔逸绝尘靴
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/def", 1800,"color", 蓝色})
+
+[奔逸绝尘靴2]
+name      : 奔逸绝尘靴
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/speed", 200,"color", 蓝色})
+
+[奔逸绝尘靴3]
+name      : 奔逸绝尘靴
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/str", 38,"color", 蓝色})
+
+[奔逸绝尘靴4]
+name      : 奔逸绝尘靴
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/con", 38,"color", 蓝色})
+
+[奔逸绝尘靴5]
+name      : 奔逸绝尘靴
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/wiz", 38,"color", 蓝色})
+
+[奔逸绝尘靴6]
+name      : 奔逸绝尘靴
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/dex", 38,"color", 蓝色})
+
+[奔逸绝尘靴7]
+name      : 奔逸绝尘靴
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_attrib", 31,"color", 蓝色})
+
+[九天幻影1]
+name      : 九天幻影
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/def", 1800,"color", 蓝色})
+
+[九天幻影2]
+name      : 九天幻影
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[九天幻影3]
+name      : 九天幻影
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/str", 38,"color", 蓝色})
+
+[九天幻影4]
+name      : 九天幻影
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/con", 38,"color", 蓝色})
+
+[九天幻影5]
+name      : 九天幻影
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/wiz", 38,"color", 蓝色})
+
+[九天幻影6]
+name      : 九天幻影
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/dex", 38,"color", 蓝色})
+
+[九天幻影7]
+name      : 九天幻影
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/all_attrib", 31,"color", 蓝色})

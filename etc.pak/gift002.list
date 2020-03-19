@@ -1,0 +1,19 @@
+#FORM2
+#jinnang.list 
+#create by caijz 09/18/2006
+#奖励物品        概率 
+
+[奖励等级]
+name$: 特等奖
+
+[特等奖]
+金色天书 : 200
+
+[金色天书]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "修罗术" })
+
+[修罗术]
+name      : 修罗术
+min_level : 100
+max_level : 100
+attribs      : ({ "prop_basic/def", 10, "prop_basic/max_life", 10, "prop_basic/speed", 10, "prop_basic/mag_power", 10, "prop_basic/mstunt_rate", 10, "prop_extra/gb_qiangj_1", 1, "level", 100, "nimbus", 16000, "icon", 9360, "color", 金色 })

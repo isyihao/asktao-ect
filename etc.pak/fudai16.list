@@ -1,0 +1,400 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+[特等奖]
+140级满属性装备1 : 100
+140级满属性装备2 : 100
+140级满属性装备3 : 100
+140级满属性装备4 : 100
+140级满属性装备5 : 100
+140级满属性装备6 : 100
+140级满属性装备7 : 100
+
+
+[140级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九天祥云戟1", "九天祥云戟2", "九天祥云戟3", "九天祥云戟4", "九天祥云戟5", "九天祥云戟6", "九天祥云戟7", "九天祥云戟8", "九天祥云戟9", "九天祥云戟10", "九天祥云戟11", "九天祥云戟12", "九天祥云戟13", "九天祥云戟14"})
+
+[140级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "双翼灵枭冠1", "双翼灵枭冠2", "双翼灵枭冠3", "双翼灵枭冠4", "双翼灵枭冠5", "双翼灵枭冠6"})
+
+[140级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "赤鸾翎羽冠1", "赤鸾翎羽冠2", "赤鸾翎羽冠3", "赤鸾翎羽冠4", "赤鸾翎羽冠5", "赤鸾翎羽冠6"})
+
+[140级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "赤金磐龙甲1", "赤金磐龙甲2", "赤金磐龙甲3", "赤金磐龙甲4", "赤金磐龙甲5", "赤金磐龙甲6", "赤金磐龙甲7", "赤金磐龙甲8", "赤金磐龙甲9"})
+
+[140级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄女绦绡衣1", "玄女绦绡衣2", "玄女绦绡衣3", "玄女绦绡衣4", "玄女绦绡衣5", "玄女绦绡衣6", "玄女绦绡衣7", "玄女绦绡衣8", "玄女绦绡衣9"})
+
+[140级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "惊虹战靴1", "惊虹战靴2", "惊虹战靴3", "惊虹战靴4", "惊虹战靴5", "惊虹战靴6", "惊虹战靴7"})
+
+[140级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "紫金八叉带1", "紫金八叉带2", "紫金八叉带3", "紫金八叉带4", "紫金八叉带5", "紫金八叉带6", "紫金八叉带7"})
+
+
+
+[九天祥云戟1]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/phy_power", 4200,"color", 蓝色})
+
+[九天祥云戟2]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/dex", 34,"color", 蓝色})
+
+[九天祥云戟3]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[九天祥云戟4]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[九天祥云戟5]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[九天祥云戟6]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[九天祥云戟7]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[九天祥云戟8]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[九天祥云戟9]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[九天祥云戟10]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[九天祥云戟11]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[九天祥云戟12]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[九天祥云戟13]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[九天祥云戟14]
+name      : 九天祥云戟
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[双翼灵枭冠1]
+name      : 双翼灵枭冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/def", 1200,"color", 蓝色})
+
+[双翼灵枭冠2]
+name      : 双翼灵枭冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/max_life", 3800,"color", 蓝色})
+
+[双翼灵枭冠2]
+name      : 双翼灵枭冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/str", 34,"color", 蓝色})
+
+[双翼灵枭冠3]
+name      : 双翼灵枭冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/con", 34,"color", 蓝色})
+
+[双翼灵枭冠4]
+name      : 双翼灵枭冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/wiz", 34,"color", 蓝色})
+
+[双翼灵枭冠5]
+name      : 双翼灵枭冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/dex", 34,"color", 蓝色})
+
+[双翼灵枭冠6]
+name      : 双翼灵枭冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[赤鸾翎羽冠1]
+name      : 赤鸾翎羽冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/def", 1200,"color", 蓝色})
+
+[赤鸾翎羽冠2]
+name      : 赤鸾翎羽冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/max_life", 3800,"color", 蓝色})
+
+[赤鸾翎羽冠2]
+name      : 赤鸾翎羽冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/str", 34,"color", 蓝色})
+
+[赤鸾翎羽冠3]
+name      : 赤鸾翎羽冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/con", 34,"color", 蓝色})
+
+[赤鸾翎羽冠4]
+name      : 赤鸾翎羽冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/wiz", 34,"color", 蓝色})
+
+[赤鸾翎羽冠5]
+name      : 赤鸾翎羽冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/dex", 34,"color", 蓝色})
+
+[赤鸾翎羽冠5]
+name      : 赤鸾翎羽冠
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[赤金磐龙甲1]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/def", 2400,"color", 蓝色})
+
+[赤金磐龙甲2]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/max_life", 6500,"color", 蓝色})
+
+[赤金磐龙甲3]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/str", 34,"color", 蓝色})
+
+[赤金磐龙甲4]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/con", 34,"color", 蓝色})
+
+[赤金磐龙甲5]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/wiz", 34,"color", 蓝色})
+
+[赤金磐龙甲6]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/dex", 34,"color", 蓝色})
+
+[赤金磐龙甲7]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[赤金磐龙甲8]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[赤金磐龙甲9]
+name      : 赤金磐龙甲
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[玄女绦绡衣1]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/def", 2400,"color", 蓝色})
+
+[玄女绦绡衣2]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/max_life", 6500,"color", 蓝色})
+
+[玄女绦绡衣3]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/str", 34,"color", 蓝色})
+
+[玄女绦绡衣4]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/con", 34,"color", 蓝色})
+
+[玄女绦绡衣5]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/wiz", 34,"color", 蓝色})
+
+[玄女绦绡衣6]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/dex", 34,"color", 蓝色})
+
+[玄女绦绡衣7]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[玄女绦绡衣8]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[玄女绦绡衣9]
+name      : 玄女绦绡衣
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[惊虹战靴1]
+name      : 惊虹战靴
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/def", 1200,"color", 蓝色})
+
+[惊虹战靴2]
+name      : 惊虹战靴
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/speed", 180,"color", 蓝色})
+
+[惊虹战靴3]
+name      : 惊虹战靴
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/str", 34,"color", 蓝色})
+
+[惊虹战靴4]
+name      : 惊虹战靴
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/con", 34,"color", 蓝色})
+
+[惊虹战靴5]
+name      : 惊虹战靴
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/wiz", 34,"color", 蓝色})
+
+[惊虹战靴6]
+name      : 惊虹战靴
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/dex", 34,"color", 蓝色})
+
+[惊虹战靴7]
+name      : 惊虹战靴
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})
+
+[紫金八叉带1]
+name      : 紫金八叉带
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/def", 1200,"color", 蓝色})
+
+[紫金八叉带2]
+name      : 紫金八叉带
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[紫金八叉带3]
+name      : 紫金八叉带
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/str", 34,"color", 蓝色})
+
+[紫金八叉带4]
+name      : 紫金八叉带
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/con", 34,"color", 蓝色})
+
+[紫金八叉带5]
+name      : 紫金八叉带
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/wiz", 34,"color", 蓝色})
+
+[紫金八叉带6]
+name      : 紫金八叉带
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/dex", 34,"color", 蓝色})
+
+[紫金八叉带7]
+name      : 紫金八叉带
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/all_attrib", 28,"color", 蓝色})

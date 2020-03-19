@@ -1,0 +1,401 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+120级满属性装备1 : 100
+120级满属性装备2 : 100
+120级满属性装备3 : 100
+120级满属性装备4 : 100
+120级满属性装备5 : 100
+120级满属性装备6 : 100
+120级满属性装备7 : 100
+
+
+[120级满属性装备1]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "混元斩龙戟1", "混元斩龙戟2", "混元斩龙戟3", "混元斩龙戟4", "混元斩龙戟5", "混元斩龙戟6", "混元斩龙戟7", "混元斩龙戟8", "混元斩龙戟9", "混元斩龙戟10", "混元斩龙戟11", "混元斩龙戟12", "混元斩龙戟13", "混元斩龙戟14"})
+
+[120级满属性装备2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七星宝冠1", "七星宝冠2", "七星宝冠3", "七星宝冠4", "七星宝冠5", "七星宝冠6"})
+
+[120级满属性装备3]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "天灵宝冠1", "天灵宝冠2", "天灵宝冠3", "天灵宝冠4", "天灵宝冠5", "天灵宝冠6"})
+
+[120级满属性装备4]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "诸天法袍1", "诸天法袍2", "诸天法袍3", "诸天法袍4", "诸天法袍5", "诸天法袍6", "诸天法袍7", "诸天法袍8", "诸天法袍9"})
+
+[120级满属性装备5]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "神鸢凤裘1", "神鸢凤裘2", "神鸢凤裘3", "神鸢凤裘4", "神鸢凤裘5", "神鸢凤裘6", "神鸢凤裘7", "神鸢凤裘8", "神鸢凤裘9"})
+
+[120级满属性装备6]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "钧天履1", "钧天履2", "钧天履3", "钧天履4", "钧天履5", "钧天履6", "钧天履7"})
+
+[120级满属性装备7]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七星额子带1", "七星额子带2", "七星额子带3", "七星额子带4", "七星额子带5", "七星额子带6", "七星额子带7"})
+
+
+
+[混元斩龙戟1]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/phy_power", 3200,"color", 蓝色})
+
+[混元斩龙戟2]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/dex", 30,"color", 蓝色})
+
+[混元斩龙戟3]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/double_hit_rate", 30,"color", 蓝色})
+
+[混元斩龙戟4]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/counter_attack_rate", 30,"color", 蓝色})
+
+[混元斩龙戟5]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/stunt_rate", 30,"color", 蓝色})
+
+[混元斩龙戟6]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/metal", 5,"color", 蓝色})
+
+[混元斩龙戟7]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/wood", 5,"color", 蓝色})
+
+[混元斩龙戟8]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/water", 5,"color", 蓝色})
+
+[混元斩龙戟9]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/fire", 5,"color", 蓝色})
+
+[混元斩龙戟10]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/earth", 5,"color", 蓝色})
+
+[混元斩龙戟11]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_polar", 5,"color", 蓝色})
+
+[混元斩龙戟12]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_skill", 10,"color", 蓝色})
+
+[混元斩龙戟13]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/ignore_all_resist_polar", 20,"color", 蓝色})
+
+[混元斩龙戟14]
+name      : 混元斩龙戟
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/ignore_all_resist_except", 20,"color", 蓝色})
+
+[七星宝冠1]
+name      : 七星宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/def", 750,"color", 蓝色})
+
+[七星宝冠2]
+name      : 七星宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/max_life", 1500,"color", 蓝色})
+
+[七星宝冠2]
+name      : 七星宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/str", 30,"color", 蓝色})
+
+[七星宝冠3]
+name      : 七星宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/con", 30,"color", 蓝色})
+
+[七星宝冠4]
+name      : 七星宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/wiz", 30,"color", 蓝色})
+
+[七星宝冠5]
+name      : 七星宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/dex", 30,"color", 蓝色})
+
+[七星宝冠6]
+name      : 七星宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_attrib", 24,"color", 蓝色})
+
+[天灵宝冠1]
+name      : 天灵宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/def", 750,"color", 蓝色})
+
+[天灵宝冠2]
+name      : 天灵宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/max_life", 1500,"color", 蓝色})
+
+[天灵宝冠2]
+name      : 天灵宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/str", 30,"color", 蓝色})
+
+[天灵宝冠3]
+name      : 天灵宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/con", 30,"color", 蓝色})
+
+[天灵宝冠4]
+name      : 天灵宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/wiz", 30,"color", 蓝色})
+
+[天灵宝冠5]
+name      : 天灵宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/dex", 30,"color", 蓝色})
+
+[天灵宝冠5]
+name      : 天灵宝冠
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_attrib", 24,"color", 蓝色})
+
+[诸天法袍1]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/def", 1500,"color", 蓝色})
+
+[诸天法袍2]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/max_life", 4600,"color", 蓝色})
+
+[诸天法袍3]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/str", 30,"color", 蓝色})
+
+[诸天法袍4]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/con", 30,"color", 蓝色})
+
+[诸天法袍5]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/wiz", 30,"color", 蓝色})
+
+[诸天法袍6]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/dex", 30,"color", 蓝色})
+
+[诸天法袍7]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_attrib", 24,"color", 蓝色})
+
+[诸天法袍8]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[诸天法袍9]
+name      : 诸天法袍
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[神鸢凤裘1]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/def", 1500,"color", 蓝色})
+
+[神鸢凤裘2]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/max_life", 4600,"color", 蓝色})
+
+[神鸢凤裘3]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/str", 30,"color", 蓝色})
+
+[神鸢凤裘4]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/con", 30,"color", 蓝色})
+
+[神鸢凤裘5]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/wiz", 30,"color", 蓝色})
+
+[神鸢凤裘6]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/dex", 30,"color", 蓝色})
+
+[神鸢凤裘7]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_attrib", 24,"color", 蓝色})
+
+[神鸢凤裘8]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_resist_polar", 20,"color", 蓝色})
+
+[神鸢凤裘9]
+name      : 神鸢凤裘
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_resist_except", 20,"color", 蓝色})
+
+[钧天履1]
+name      : 钧天履
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/def", 750,"color", 蓝色})
+
+[钧天履2]
+name      : 钧天履
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/speed", 160,"color", 蓝色})
+
+[钧天履3]
+name      : 钧天履
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/str", 30,"color", 蓝色})
+
+[钧天履4]
+name      : 钧天履
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/con", 30,"color", 蓝色})
+
+[钧天履5]
+name      : 钧天履
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/wiz", 30,"color", 蓝色})
+
+[钧天履6]
+name      : 钧天履
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/dex", 30,"color", 蓝色})
+
+[钧天履7]
+name      : 钧天履
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_attrib", 24,"color", 蓝色})
+
+[七星额子带1]
+name      : 七星额子带
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/def", 750,"color", 蓝色})
+
+[七星额子带2]
+name      : 七星额子带
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/base_dodge", 300,"color", 蓝色})
+
+[七星额子带3]
+name      : 七星额子带
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/str", 30,"color", 蓝色})
+
+[七星额子带4]
+name      : 七星额子带
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/con", 30,"color", 蓝色})
+
+[七星额子带5]
+name      : 七星额子带
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/wiz", 30,"color", 蓝色})
+
+[七星额子带6]
+name      : 七星额子带
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/dex", 30,"color", 蓝色})
+
+[七星额子带7]
+name      : 七星额子带
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/all_attrib", 24,"color", 蓝色})

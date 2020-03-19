@@ -1,0 +1,187 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+相5首饰 : 1
+
+
+[相5首饰]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七杀固元2"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "破军捆灵2"})
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "贪狼破日2"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "游火灵焰2"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "千彩流光2"})
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "岚金火链2"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七杀固元22"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "破军捆灵22"})
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "贪狼破日22"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "游火灵焰22"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "千彩流光22"})
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "岚金火链22"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "游火灵焰33"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "千彩流光33"})
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "岚金火链33"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "游火灵焰44"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "千彩流光44"})
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "岚金火链44"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "游火灵焰55"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "千彩流光55"})
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "岚金火链55"})
+
+
+
+[七杀固元22]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({"prop/all_polar", 5, "prop2/all_skill", 10, "prop2/ignore_all_resist_polar", 40, "prop2/dex", 42, "prop2/wiz", 42, "prop4/ignore_all_resist_polar", 40, "prop4/wiz", 42, "prop4/dex", 42 })
+
+[破军捆灵22]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({"prop/all_polar", 5, "prop2/all_skill", 10, "prop2/ignore_all_resist_polar", 40, "prop2/dex", 42, "prop2/wiz", 42, "prop4/ignore_all_resist_polar", 40, "prop4/wiz", 42, "prop4/dex", 42 })
+
+[贪狼破日22]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({"prop/all_polar", 5, "prop2/all_skill", 10, "prop2/ignore_all_resist_polar", 40, "prop2/dex", 42, "prop2/wiz", 42, "prop4/ignore_all_resist_polar", 40, "prop4/wiz", 42, "prop4/dex", 42 })
+
+
+[七杀固元2]
+name      : 七杀固元
+min_level : 110
+max_level : 110
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 38,"prop/dex", 38, "prop2/wiz", 38, "prop2/dex", 38,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[破军捆灵2]
+name      : 破军捆灵
+min_level : 110
+max_level : 110
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 38,"prop/dex", 38, "prop2/wiz", 38, "prop2/dex", 38,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[贪狼破日2]
+name      : 贪狼破日
+min_level : 110
+max_level : 110
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 38,"prop/dex", 38, "prop2/wiz", 38, "prop2/dex", 38,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[游火灵焰2]
+name      : 游火灵焰
+min_level : 130
+max_level : 130
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 30,"prop/dex", 30, "prop2/wiz", 30, "prop2/dex", 30,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[千彩流光2]
+name      : 千彩流光
+min_level : 130
+max_level : 130
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 30,"prop/dex", 30, "prop2/wiz", 30, "prop2/dex", 30,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[岚金火链2]
+name      : 岚金火链
+min_level : 130
+max_level : 130
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 30,"prop/dex", 30, "prop2/wiz", 30, "prop2/dex", 30,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[游火灵焰22]
+name      : 炫元玲珑
+min_level : 140
+max_level : 140
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 34,"prop/dex", 34, "prop2/wiz", 34, "prop2/dex", 34,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[千彩流光22]
+name      : 掠虹宝坠
+min_level : 140
+max_level : 140
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 34,"prop/dex", 34, "prop2/wiz", 34, "prop2/dex", 34,"prop/all_skill", 10,"prop/ignore_all_resist_polar", 40 })
+
+[岚金火链22]
+name      : 龙御七星
+min_level : 140
+max_level : 140
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 34,"prop/dex", 34, "prop2/wiz", 34, "prop2/dex", 34,"prop/all_skill", 10 ,"prop/ignore_all_resist_polar", 40})
+
+[游火灵焰33]
+name      : 五蕴悯光
+min_level : 120
+max_level : 120
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 26,"prop/dex", 26, "prop2/wiz", 26, "prop2/dex", 26 ,"prop/ignore_all_resist_polar", 40})
+
+[千彩流光33]
+name      : 八宝如意
+min_level : 120
+max_level : 120
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 26,"prop/dex", 26, "prop2/wiz", 26, "prop2/dex", 26 ,"prop/ignore_all_resist_polar", 40})
+
+[岚金火链33]
+name      : 九天霜华
+min_level : 120
+max_level : 120
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 26,"prop/dex", 26, "prop2/wiz", 26, "prop2/dex", 26,"prop/ignore_all_resist_polar", 40 })
+
+
+[游火灵焰44]
+name      : 流光绝影
+min_level : 110
+upgrade_type : 6
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 26,"prop/dex", 26, "prop2/wiz", 26, "prop2/dex", 26 ,"prop/ignore_all_resist_polar", 40})
+
+[千彩流光44]
+name      : 寒玉龙勾
+min_level : 110
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/dex", 26, "prop2/dex", 26,"prop/ignore_all_resist_polar", 40 })
+
+[岚金火链44]
+name      : 碎梦涵光
+min_level : 110
+max_level : 110
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 26,"prop/dex", 26, "prop2/wiz", 26, "prop2/dex", 26 ,"prop/ignore_all_resist_polar", 40})
+
+[游火灵焰55]
+name      : 通灵宝玉
+min_level : 100
+max_level : 100
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 26,"prop/dex", 26, "prop2/wiz", 26, "prop2/dex", 26,"prop/ignore_all_resist_polar", 40 })
+
+[千彩流光55]
+name      : 金碧莲花
+min_level : 100
+max_level : 100
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 26,"prop/dex", 26, "prop2/wiz", 26, "prop2/dex", 26 ,"prop/ignore_all_resist_polar", 40})
+
+[岚金火链55]
+name      : 天星奇光
+min_level : 100
+max_level : 100
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 24, "prop2/wiz", 24 ,"prop/ignore_all_resist_polar", 40})
+
+

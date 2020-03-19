@@ -1,0 +1,21 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+法宝 : 1000
+
+[法宝]
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "混沌钟" })
+
+[混沌钟]
+name:混沌钟
+min_level : 14
+max_level : 14
+polar:1
+attribs      : ({"extra_skill", "qinmi_wujian", "extra_skill_level", 14, "upgraded", 1, "icon", 1448, "nimbus", 400000 })
